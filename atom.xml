@@ -1,16 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Shawn Throop]]></title>
   <link href="http://shawnthroop.github.io/atom.xml" rel="self"/>
   <link href="http://shawnthroop.github.io/"/>
-  <updated>2014-08-15T11:50:25-03:00</updated>
+  <updated>2014-09-10T09:18:07+02:00</updated>
   <id>http://shawnthroop.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Shawn Throop]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This Is a New Post]]></title>
+    <link href="http://shawnthroop.github.io/blog/2014/08/26/this-is-a-new-post/"/>
+    <updated>2014-08-26T16:28:12+02:00</updated>
+    <id>http://shawnthroop.github.io/blog/2014/08/26/this-is-a-new-post</id>
+    <content type="html"><![CDATA[<p>All the rounding is done for you, and if the result is less than half a minute, we’re hard-setting the result to 1. Of course, you could change this behaviour to whatever you like.</p>
+
+<p>I should note that I’m hardly a programmer let alone experienced with Ruby, so if there’s a better way to do this I’d love to know. However, this works for me, so I thought I’d share. Enjoy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why Now?]]></title>
+    <link href="http://shawnthroop.github.io/blog/2014/08/19/why-now/"/>
+    <updated>2014-08-19T17:55:46+02:00</updated>
+    <id>http://shawnthroop.github.io/blog/2014/08/19/why-now</id>
+    <content type="html"><![CDATA[<p>Since the App.net <a href="http://blog.app.net/2014/05/06/app-net-state-of-the-union/">State of the Union announcement</a> there have been many discussions about App.net, its success, and its ability to continue running. Regardless of those discussions and the fact that App.net remains a functioning service, I believe it is no longer an economically viable platform to build apps on.</p>
+
+<p>So why would I continue to create a client application for a service that might disappear before it&rsquo;s approved by Apple?</p>
+
+<p>There are two important facts that allowed Prose to be finished: I have a stable &ldquo;day job&rdquo; and Prose is my first app. I started learning Objective-C at around this time last year and not until I was actually writing Prose did I really learn it<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. Prose is a passion project and regardless of sales, I have already profited from it: I know Objective-C, I know how to make an iOS app, and I am confident that my current knowledge will help me adapt as a developer (switching to Swift, for example).</p>
+
+<h3>What Comes Next</h3>
+
+<p>Just because I have shipped an app doesn&rsquo;t mean I&rsquo;m done with it. I wanted to make an iOS app and supporting it, fixing bugs, and shipping updates are all a part of that.</p>
+
+<p>I wish I could promise to actively develop Prose forever but I don&rsquo;t know App.net’s future and I won&rsquo;t lie to customers. I’ll be using App.net until the API ceases to respond and I want to use Prose until that time comes.</p>
+
+<p>What I can confidently say is that, as of now, I will continue to actively develop Prose. I have more features planned and I will fix bugs for as long as I can. If a time comes where I need to re-evaluate that statement I will let you know.</p>
+
+<p>Follow <a href="http://app.net/prose">@prose</a> or <a href="http://app.net/c/w2m8">subscribe to the Broadcast channel</a> to get notified of updates. For a more personal touch follow me, <a href="http://app.net/shawnthroop">@shawnthroop</a>.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Don&rsquo;t let this scare you. As my knowledge of Objective-C grew I rewrote the main timeline 14 times and the whole app 3 times before it was released.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to Insanity]]></title>
+    <link href="http://shawnthroop.github.io/blog/2014/08/15/welcome-to-insanity/"/>
+    <updated>2014-08-15T19:00:15+02:00</updated>
+    <id>http://shawnthroop.github.io/blog/2014/08/15/welcome-to-insanity</id>
+    <content type="html"><![CDATA[<p>Tags are used for the logic in your template. New tags are very easy to code, so I hope to get many contributions to the standard tag library after releasing this code.</p>
+
+<p>Here is a list of currently supported tags:</p>
+
+<ul>
+<li>assign - Assigns some value to a variable</li>
+<li>capture - Block tag that captures text into a variable</li>
+<li>case - Block tag, its the standard case&hellip;when block</li>
+<li>comment - Block tag, comments out the text in the block</li>
+<li>cycle - Cycle is usually used within a loop to alternate between values, like colors or DOM classes.</li>
+</ul>
+
+
+<h2>Collections</h2>
+
+<p>Instead of looping over an existing collection, you can define a range of numbers to loop through. The range can be defined by both literal and variable numbers:</p>
+
+<pre><code># if item.quantity is 4...
+
+# results in 1,2,3,4
+</code></pre>
+
+<h2>Variable Assignment</h2>
+
+<p>You can store data in your own variables, to be used in output or other tags as desired. The simplest way to create a variable is with the assign tag, which has a pretty straightforward syntax:</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://shawnthroop.github.io/blog/2014/08/15/hello-world/"/>
+    <updated>2014-08-15T17:00:15+02:00</updated>
+    <id>http://shawnthroop.github.io/blog/2014/08/15/hello-world</id>
+    <content type="html"><![CDATA[<p><a href="#">A great retrospective on Mac gaming</a> by Jeremy Parish:</p>
+
+<blockquote><p>Mac games were actually pretty weird and unique in the olden days, and I actually could see someone being a Macintosh-exclusive gamer in the ’80s. The platform offered (1) mouse-based controls and (2) no color, or at least no guarantee of color support until they stopped selling the Mac SE and pre-PPC PowerBook lines in the mid-’90s. Perhaps unsurprisingly, Mac games felt a little different from console and DOS counterparts. Another factor there came from the fact that Macintosh had system-level support for graphics, it using a visual interface and all, whereas other computers kind of needed to be tricked in various degrees before they’d display images.</p></blockquote>
+
+<p>I&rsquo;d argue that the Mac App Store has helped in facilitating distribution of modern Mac games, although, from a gamer&rsquo;s perspective, it&rsquo;s still inferior to other services – especially for clarifying hardware requirements.</p>
+]]></content>
+  </entry>
   
 </feed>

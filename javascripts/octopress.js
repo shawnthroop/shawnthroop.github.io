@@ -6,7 +6,7 @@ function getNav() {
     mobileNav.find('select').append('<option value="' + this.href + '">&raquo; ' + $(this).text() + '</option>');
   }
   mainNav.find('a').each(addOption);
-  $('ul.subscription a').each(addOption);
+  //$('ul.subscription a').each(addOption);
   mobileNav.find('select').bind('change', function(event) {
     if (event.target.value) { window.location.href = event.target.value; }
   });
@@ -111,7 +111,7 @@ $('document').ready(function() {
   flashVideoFallback();
   addCodeLineNumbers();
   getNav();
-  addSidebarToggler();
+  //addSidebarToggler();
 });
 
 // iOS scaling bug fix
