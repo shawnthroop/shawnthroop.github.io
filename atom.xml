@@ -4,7 +4,7 @@
   <title><![CDATA[Shawn Throop]]></title>
   <link href="http://shawnthroop.github.io/atom.xml" rel="self"/>
   <link href="http://shawnthroop.github.io/"/>
-  <updated>2014-10-06T17:25:48+02:00</updated>
+  <updated>2014-10-06T18:45:45+02:00</updated>
   <id>http://shawnthroop.github.io/</id>
   <author>
     <name><![CDATA[Shawn Throop]]></name>
@@ -21,6 +21,15 @@
     <content type="html"><![CDATA[<p>In the past I avoided putting my name on things. However, after I released an app in August I realised I needed a place where people can find out about me and what I make.</p>
 
 <p>After my Linode accidentally got wiped this summer, I was given the perfect opportunity to start over. So, I cloned a copy of <a href="http://octopress.org">Octopress</a> and I now have my little corner on the internet.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Testing Dates]]></title>
+    <link href="http://shawnthroop.github.io/blog/2013/10/06/testing-dates/"/>
+    <updated>2013-10-06T18:16:50+02:00</updated>
+    <id>http://shawnthroop.github.io/blog/2013/10/06/testing-dates</id>
+    <content type="html"><![CDATA[<p>SSH keys are a way to identify trusted computers, without involving passwords. The steps below will walk you through generating an SSH key and then adding the public key to your GitHub account.</p>
 ]]></content>
   </entry>
   
