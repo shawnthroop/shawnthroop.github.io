@@ -8,55 +8,31 @@
     <priority>0.8</priority>
   </url>
   
-  <url>
-    <loc>http://shawnthroop.github.io/blog/2014/08/26/this-is-a-new-post/</loc>
-    <lastmod>2014-08-26T16:28:12+02:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://shawnthroop.github.io/blog/2014/08/19/why-now/</loc>
-    <lastmod>2014-08-19T17:55:46+02:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://shawnthroop.github.io/blog/2014/08/15/welcome-to-insanity/</loc>
-    <lastmod>2014-08-15T19:00:15+02:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://shawnthroop.github.io/blog/2014/08/15/hello-world/</loc>
-    <lastmod>2014-08-15T17:00:15+02:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
   
   <url>
     <loc>http://shawnthroop.github.io/blog/archives/</loc>
-    <lastmod>2014-10-06T17:21:58+02:00</lastmod>
+    <lastmod>2014-10-06T17:25:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://shawnthroop.github.io/</loc>
-    <lastmod>2014-10-06T17:21:58+02:00</lastmod>
+    <lastmod>2014-10-06T17:25:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://shawnthroop.github.io/apps/</loc>
-    <lastmod>2014-10-06T17:21:58+02:00</lastmod>
+    <lastmod>2014-10-06T17:25:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://shawnthroop.github.io/about/</loc>
-    <lastmod>2014-10-06T17:21:58+02:00</lastmod>
+    <lastmod>2014-10-06T17:25:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
