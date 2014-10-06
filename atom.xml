@@ -4,7 +4,7 @@
   <title><![CDATA[Shawn Throop]]></title>
   <link href="http://shawnthroop.github.io/atom.xml" rel="self"/>
   <link href="http://shawnthroop.github.io/"/>
-  <updated>2014-09-10T09:21:40+02:00</updated>
+  <updated>2014-10-06T17:21:58+02:00</updated>
   <id>http://shawnthroop.github.io/</id>
   <author>
     <name><![CDATA[Shawn Throop]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://shawnthroop.github.io/blog/2014/10/06/welcome/"/>
+    <updated>2014-10-06T16:54:49+02:00</updated>
+    <id>http://shawnthroop.github.io/blog/2014/10/06/welcome</id>
+    <content type="html"><![CDATA[<p>In the past I avoided putting my name on things. However, after I released an app in August I realised I needed a place where people can find out about me and what I make.</p>
+
+<p>After my Linode accidentally got wiped this summer, I was given the perfect opportunity to start over. So, I cloned a copy of <a href="http://octopress.org">Octopress</a> and I now have my little corner on the internet.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This Is a New Post]]></title>
