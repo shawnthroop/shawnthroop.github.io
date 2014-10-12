@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Shawn Throop]]></title>
-  <link href="http://shawnthroop.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Music | Shawn Throop]]></title>
+  <link href="http://shawnthroop.github.io/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://shawnthroop.github.io/"/>
   <updated>2014-10-12T16:56:50+02:00</updated>
   <id>http://shawnthroop.github.io/</id>
@@ -81,17 +81,6 @@
 <p>If you&rsquo;re trying to piece together why these tracks and albums fit my writing environment you should really listen to <a href="http://www.70decibels.com/enough/2012/4/5/ep-124-add.html">the episode of Enough</a>. Adding to Myke’s explanation, they fill the silence and cover up the small noises that annoy my brain and dislodge it from the task of writing. Some music, like music with lyrics, doesn&rsquo;t help. Unfamiliar and new albums are even better at derailing my attention. If a track that does help me concentrate is playing I feel like the part of my mind that would wander is already occupied in the back of my brain and the part of my brain for writing is in the foreground, ready and focused.</p>
 
 <p>I think it is a lot like using a TV program in the next room to keep a child happy while I work in another.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://shawnthroop.github.io/blog/2014/10/06/welcome/"/>
-    <updated>2014-10-06T16:54:49+02:00</updated>
-    <id>http://shawnthroop.github.io/blog/2014/10/06/welcome</id>
-    <content type="html"><![CDATA[<p>In the past I avoided putting my name on things. However, after I released an app in August I realised I needed a place where people can find out about me and what I make.</p>
-
-<p>After my Linode accidentally got wiped this summer, I was given the perfect opportunity to start over. So, I cloned a copy of <a href="http://octopress.org">Octopress</a> and I now have my little corner on the internet.</p>
 ]]></content>
   </entry>
   
